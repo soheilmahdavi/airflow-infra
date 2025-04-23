@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Airflow
+logs/
+airflow.db
+airflow.cfg
+# anything else you don’t want
+
